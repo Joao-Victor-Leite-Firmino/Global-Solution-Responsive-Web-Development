@@ -92,6 +92,15 @@ background-color: white;
     font-size: 2.18em;
 }
 
+.titulo__agricultura {
+    padding-top: 3.5em;
+}
+
+.titulo__ia-generativa {
+    padding-top: 3em;
+    width: 80%;
+}
+
 .sobre {
     display: flex;
     flex-direction: column;
