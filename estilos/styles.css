@@ -114,3 +114,19 @@ background-color: white;
     margin-bottom:  1em;
     margin-left: 5em;
 }
+
+.rodape {
+    background-color: #0B089B;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.titulo__rodape {
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+.integrantes {
+    padding: 1em;
+}
