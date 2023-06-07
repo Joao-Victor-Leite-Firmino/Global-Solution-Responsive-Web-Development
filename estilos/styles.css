@@ -115,6 +115,36 @@ background-color: white;
     margin-left: 5em;
 }
 
+.conteudo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.subtitulo__conteudo {
+    padding-top: 1 em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.87em;
+    width: 80%;
+    padding-left: 1.2em;
+
+}
+
+.imagem  {
+    width: 100%;
+    padding: 1em 0 2em 0;
+}
+
+.imagem__solucao {
+    width: 60%;
+    padding: 2em 0 2em 5em;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
 .rodape {
     background-color: #0B089B;
     text-align: center;
