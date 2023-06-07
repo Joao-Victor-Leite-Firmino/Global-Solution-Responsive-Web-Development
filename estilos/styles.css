@@ -187,3 +187,21 @@ background-color: white;
 .integrantes {
     padding: 1em;
 }
+
+.contato {
+    display: flex;
+    flex-direction: column;
+}
+
+.subtitulo__contato {
+    padding: 2em 0 1em 2em;
+}
+
+.formulario {
+    padding: 0em 6em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.botao__formulario {
+    margin: 1em 5em;
+}
