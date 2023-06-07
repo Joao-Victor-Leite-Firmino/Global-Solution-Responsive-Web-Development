@@ -59,3 +59,23 @@ background-color: white;
     font-size: 0,81em;
     text-transform: uppercase;
 }
+
+.banner {
+    width: 100%;
+    height: 20em;
+    background-image: url(../assets/caminhao.jpg);
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.titulo {
+    margin-left: auto;
+    margin-right: auto; 
+    padding-top: 4em;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 2.18em;
+}
