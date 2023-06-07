@@ -214,3 +214,102 @@ background-color: white;
 .botao__agradecimento {
     margin-bottom: 7em;
 }
+
+@media screen and (min-width: 768px) {
+    .menu_hamburguer {
+    margin-top: 3.2em;
+    background-size: 6em;
+    }
+
+    .navegacao__abas a{
+        font-size: 1.5em;
+    }
+
+    .logo {
+        padding: 2.5em 0.5em 2em 2em;
+    }
+
+    .titulo {
+        padding-top: 3em;
+        font-size: 3em;
+    }
+
+    .subtitulo {
+        padding-top: 1em;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        font-size: 3em;
+    }
+
+    .paragrafo {
+        font-size: 2em;
+    }
+
+    .botao__home {
+        border-radius: 5px;
+        width: 50%;
+        padding: 1em;
+        font-size: 1.5em;
+        font-weight: bold;
+        margin-bottom:  1em;
+        margin-left: 7.4em;
+    }
+
+    .subtitulo__conteudo {
+        padding-left: 1.8em;
+    }
+
+    .titulo__rodape {
+        font-size: 2em;
+    }
+
+    .integrantes {
+        font-size: 2em;
+    }
+
+    .imagem__solucao {
+        width: 60%;
+        padding: 2em 0 2em 10.5em;
+    }
+
+    .subtitulo__conteudo {
+        font-size: 3em;
+    }
+
+    .exemplos {
+        font-size: 2em;
+    }
+
+    .subtitulo__contato {
+        padding: 2em 0 1em 4em;
+    }
+
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 1em 1em;
+        font-size: 1.5em;
+    }
+
+    .botao__formulario {
+        padding: 1em 0em;
+        font-size: 1em;
+    }
+
+    .campo__formulario {
+        height: 2em;
+        width: 50em;
+        padding-left: 3em;
+    }
+
+    .texto__agradecimento {
+        padding-top: 14em;
+        padding-bottom: 8em;
+    }
+
+    .botao__agradecimento {
+        margin-bottom: 14em;
+    }
+
+}
