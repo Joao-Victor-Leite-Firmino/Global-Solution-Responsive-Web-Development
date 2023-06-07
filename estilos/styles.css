@@ -205,3 +205,12 @@ background-color: white;
 .botao__formulario {
     margin: 1em 5em;
 }
+
+.texto__agradecimento {
+    padding-top: 7em;
+    padding-bottom: 4em;
+}
+
+.botao__agradecimento {
+    margin-bottom: 7em;
+}
