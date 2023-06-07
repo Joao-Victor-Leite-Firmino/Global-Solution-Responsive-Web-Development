@@ -145,6 +145,12 @@ background-color: white;
     font-weight: bold;
 }
 
+.exemplos {
+    font-family: 'Montserrat', sans-serif;
+    padding: 1em;
+    text-decoration: dashed
+}
+
 .rodape {
     background-color: #0B089B;
     text-align: center;
